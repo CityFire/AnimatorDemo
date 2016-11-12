@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		044027B11DD7684B00BD9547 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044027B01DD7684B00BD9547 /* ViewController2.swift */; };
 		04C882741D981A26001312C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C882731D981A26001312C9 /* AppDelegate.swift */; };
 		04C882761D981A26001312C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C882751D981A26001312C9 /* ViewController.swift */; };
 		04C882791D981A26001312C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C882771D981A26001312C9 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		044027B01DD7684B00BD9547 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		04C882701D981A26001312C9 /* AnimatorDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatorDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C882731D981A26001312C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04C882751D981A26001312C9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				04C882731D981A26001312C9 /* AppDelegate.swift */,
 				04C882751D981A26001312C9 /* ViewController.swift */,
+				044027B01DD7684B00BD9547 /* ViewController2.swift */,
 				04C882771D981A26001312C9 /* Main.storyboard */,
 				04C8827A1D981A26001312C9 /* Assets.xcassets */,
 				04C8827C1D981A26001312C9 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				04C882761D981A26001312C9 /* ViewController.swift in Sources */,
 				04C882741D981A26001312C9 /* AppDelegate.swift in Sources */,
+				044027B11DD7684B00BD9547 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				04C882841D981A26001312C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
